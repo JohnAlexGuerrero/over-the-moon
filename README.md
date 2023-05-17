@@ -30,16 +30,17 @@
 
 ## Table of Contents
 
-- [Ojetivos](#overview)
-  - [Built With](#built-with)
-- [Features](#features)
+- [Manejo y representacion de Datos](#overview)
+  - [over the moon](#built-with)
+- [Aprendizaje Automatico](#features)
+  - [prediccion de meteoros](#built-with)
 - [How to use](#how-to-use)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
 
 <!-- OVERVIEW -->
 
-## Objetivos de aprendizaje
+## Objetivos de aprendizaje(over the moon)
 
 En este módulo, comenzará a desarrollar las habilidades para:
 
@@ -48,13 +49,17 @@ En este módulo, comenzará a desarrollar las habilidades para:
 - Utilice técnicas de limpieza de datos para obtener una representación clara de los datos.
 - Haz una hipótesis sobre cuánta roca pueden traer los astronautas en las misiones de Artemisa. :)
 
-### Built With
+### Objetivos de aprendizaje(Prediccion de Meteoritos)
 
-<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
+Obtenga información sobre cómo usar conceptos de aprendizaje automático para predecir la aparición de lluvias de meteoros (o las lágrimas de la diosa Luna).
+Objetivos de aprendizaje
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+En este módulo, aprenderá lo siguiente:
+
+  Los aspectos básicos de las lluvias de meteoros: qué son y por qué se ven.
+  Cómo elegir y recopilar los datos adecuados.
+  Estrategias para limpiar y manipular los datos.
+
 
 ## Features
 
